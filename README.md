@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on Encore
 - 🤔 I’m looking for help with Work
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
+- 📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 <h3 align="left">SW & Data Engineering</h3>
-<h3 align="left">Graduation from Inha University ![inha](https://github.com/hyul77/hyul77/assets/100561170/996873a9-7da0-4b22-b21d-492322c98edb)</h3>
+<h3 align="left">Graduation from Inha University 
+	[![inha](https://github.com/hyul77/hyul77/assets/100561170/996873a9-7da0-4b22-b21d-492322c98edb)]</h3>
 <h4 align="left">Department of Computer Science</h3>
 <h3 align="left">Encore boottent</h3>
 <h4 align="left">Data_Engineering_Track_28 ![logo](https://github.com/hyul77/hyul77/assets/100561170/9167f603-e715-487c-8b56-e04fb8310385)</h3>
