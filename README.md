@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 <br><br>
 ----1차----
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyuk-Lee&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&layout=compact"><br><br>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyuk-Lee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=JunHyuk-Lee&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hyul77&show_icons=true">
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
