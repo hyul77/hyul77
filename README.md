@@ -1,31 +1,19 @@
-### Hi there 👋
-
-
-**hyul77/hyul77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
+### Hi there
 <h1 align="left">👋 I'm Lee Jun Hyuk</h1>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Big Data
+- 👯 I’m looking to collaborate on Encore
+- 🤔 I’m looking for help with Work
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 <h3 align="left">SW & Data Engineering</h3>
-<h3 align="left">Graduation from Inha University</h3>
+<h3 align="left">Graduation from Inha University ![inha](https://github.com/hyul77/hyul77/assets/100561170/996873a9-7da0-4b22-b21d-492322c98edb)</h3>
 <h4 align="left">Department of Computer Science</h3>
 <h3 align="left">Encore boottent</h3>
-<h4 align="left">Data_Engineering_Track_28</h3>
+<h4 align="left">Data_Engineering_Track_28 ![logo](https://github.com/hyul77/hyul77/assets/100561170/9167f603-e715-487c-8b56-e04fb8310385)</h3>
 
 # 📫: About Me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)  
 
 
 <br>
@@ -41,7 +29,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# :막대_차트: GitHub Stats:
+# 📊: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hyul77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
