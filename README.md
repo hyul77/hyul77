@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2 align="left">Tech</h2>
 
 # :컴퓨터: Tech Stack:
-![C++](https://img.shields.io/badge/c++-%00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
