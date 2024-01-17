@@ -8,9 +8,9 @@
 <h1 align="left">👋 I'm Lee Jun Hyuk</h1>
 <h3 align="left">SW & Data Engineering</h3>
 <h3 align="left">Graduation from Inha University </h3>
-<h4 align="left">Department of Computer Science</h3>
+<h4 align="left">Department of Computer Science</h4>
 <h3 align="left">Encore boottent</h3>
-<h4 align="left">Data_Engineering_Track_28</h3>
+<h4 align="left">Data_Engineering_Track_28</h4>
 
 # 🥇 award record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
@@ -25,8 +25,6 @@
 [DACON](https://dacon.io/myprofile/474256/home)
 
 
-<br>
-<h2 align="left">Tech</h2>
 
 # 📖 Tech Stack 📖
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=cColor=white)
