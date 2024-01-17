@@ -13,20 +13,20 @@
 <h3 align="left">Encore boottent</h3>
 <h4 align="left">Data_Engineering_Track_28</h3>
 
-# 📫: About Me:
-- mail
+# 📫 About Me
+- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
-- blog
+- 
 ![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)
-- Coding
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
+- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
 
 
 
 <br>
 <h2 align="left">Tech</h2>
 
-# 💻: Tech Stack:
+# 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# 📊: GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hyul77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
