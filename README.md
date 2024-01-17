@@ -46,7 +46,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-# 🌟hyul77/이준혁🌟
+# 🌟hyul77/이준혁 project🌟
+- Data 분석 관련
+- [Pandas](https://github.com/hyul77/hyul-pandas)
+
+- 웹 관련
+- [Django](https://github.com/hyul77/hyul-django)
+- [Web Project](https://github.com/hyul77/hyul-notalone)
+
+- 크롤링 관련
+- [Web Crawling](https://github.com/hyul77/hyul-crawling)
 
 
 <!--
