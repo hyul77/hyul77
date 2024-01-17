@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
 # :막대_차트: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hyul77&theme=dark&hide_border=false)<br/>
