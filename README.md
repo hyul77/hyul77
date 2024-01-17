@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 <h1 align="left">👋 I'm Lee Jun Hyuk</h1>
 <h3 align="left">SW & Data Engineering</h3>
+<h3 align="left">Graduation from Inha University</h3>
+<h3 align="left">Department of Computer Science</h3>
+
+# :컴퓨터: About Me:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77)](kimhyul77@gmail.com)
+
 <br>
 <h2 align="left">Tech</h2>
 
