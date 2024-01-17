@@ -5,14 +5,14 @@
 - 🤔 I’m looking for help with Work
 
 
-<h1 align="left">👋 I'm Lee Jun Hyuk</h1>
+<h1 align="left">👋 I'm Lee Jun Hyuk 👋</h1>
 <h3 align="left">SW & Data Engineering</h3>
 <h3 align="left">Graduation from Inha University </h3>
 <h4 align="left">Department of Computer Science</h4>
 <h3 align="left">Encore Academy</h3>
 <h4 align="left">Data_Engineering_Track_28</h4>
 
-# 🥇 award record 🥇
+# 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
 - [발표작품](https://github.com/hyul77/VIP)
 
