@@ -14,11 +14,9 @@
 <h4 align="left">Data_Engineering_Track_28</h3>
 
 # 📫 About Me
-- 
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
-- 
 ![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)
-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
 
 
