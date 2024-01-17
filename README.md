@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**hyul77/hyul77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**hyul77/이준혁** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
-<h1 align="left">Hi there!:손인사: I'm Lee Jun Hyuk</h1>
-<h3 align="left">I do SW & Data Engineering things</h3>
+
+<h1 align="left">👋 I'm Lee Jun Hyuk</h1>
+<h3 align="left">SW & Data Engineering</h3>
 <br>
 <h2 align="left">Tech</h2>
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-**hyul77/JunHyuk-Lee** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
+**hyul77/이준혁** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :망원경: I’m currently working on ...
 - :새싹: I’m currently learning ...
