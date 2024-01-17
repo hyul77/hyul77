@@ -6,10 +6,10 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 <h1 align="left">👋 I'm Lee Jun Hyuk</h1>
 <h3 align="left">SW & Data Engineering</h3>
-<h3 align="left">Graduation from Inha University </h3>[![inha](https://github.com/hyul77/hyul77/assets/100561170/996873a9-7da0-4b22-b21d-492322c98edb)]
+<h3 align="left">Graduation from Inha University </h3>![inha](https://github.com/hyul77/hyul77/assets/100561170/29471066-1a84-4fb2-b406-a7826e1fc008)
 <h4 align="left">Department of Computer Science</h3>
 <h3 align="left">Encore boottent</h3>
-<h4 align="left">Data_Engineering_Track_28 ![logo](https://github.com/hyul77/hyul77/assets/100561170/9167f603-e715-487c-8b56-e04fb8310385)</h3>
+<h4 align="left">Data_Engineering_Track_28 [![logo](https://github.com/hyul77/hyul77/assets/100561170/957a06f0-daf4-4854-a3fa-8a7f46cf35a8)]</h3>
 
 # 📫: About Me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
