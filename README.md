@@ -1,34 +1,39 @@
 ### Hi there
-![inha](https://github.com/hyul77/hyul77/assets/100561170/29471066-1a84-4fb2-b406-a7826e1fc008)
-<h1 align="left">👋 I'm Lee Jun Hyuk</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on Encore
 - 🤔 I’m looking for help with Work
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 
+
+<h1 align="left">👋 I'm Lee Jun Hyuk</h1>
 <h3 align="left">SW & Data Engineering</h3>
 <h3 align="left">Graduation from Inha University </h3>
 <h4 align="left">Department of Computer Science</h3>
 <h3 align="left">Encore boottent</h3>
-<h4 align="left">Data_Engineering_Track_28 [![logo](https://github.com/hyul77/hyul77/assets/100561170/957a06f0-daf4-4854-a3fa-8a7f46cf35a8)]</h3>
+<h4 align="left">Data_Engineering_Track_28</h3>
 
 # 📫: About Me:
+- mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)  
+- blog
+![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)
+- Coding
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
+
 
 
 <br>
 <h2 align="left">Tech</h2>
 
 # 💻: Tech Stack:
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 # 📊: GitHub Stats:
