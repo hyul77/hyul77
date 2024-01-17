@@ -13,11 +13,16 @@
 <h3 align="left">Encore boottent</h3>
 <h4 align="left">Data_Engineering_Track_28</h3>
 
+# 🥇 award record
+- 2023 캡스톤디자인 성과발표회 최우수상
+- [발표작품](https://github.com/hyul77/VIP)
+
+
 # 📫 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
-[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)]
+![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)(https://hyul-code.tistory.com/)
 [DACON](https://dacon.io/myprofile/474256/home)
 
 
@@ -42,11 +47,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hyul77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
+
 <div align="center">
-  <h3>:책: Tech Stack :책:</h3>
+  <h3>📖 Tech Stack 📖</h3>
   <br>
-  <p>:반짝임: Platform & Languages :반짝임:</p>
+  <p>⭐ Platform & Languages ⭐</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white" />
@@ -80,14 +85,4 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-**hyul77/이준혁** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :망원경: I’m currently working on ...
-- :새싹: I’m currently learning ...
-- :댄서: I’m looking to collaborate on ...
-- :생각하는_얼굴: I’m looking for help with ...
-- :말풍선: Ask me about ...
-- :우편함: How to reach me: ...
-- :웃음: Pronouns: ...
-- :번쩍: Fun fact: ...
--->
+🌟hyul77/이준혁🌟 repository
