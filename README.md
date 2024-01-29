@@ -12,7 +12,7 @@
 
 # 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
-[2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
+- [2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
 
 
 
