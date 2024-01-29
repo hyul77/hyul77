@@ -1,10 +1,8 @@
 ### Hi there
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on Encore
-- 🤔 I’m looking for help with Work
-
-
+- 🤔 I’m looking for help with Work -->
 <h1 align="left">👋 I'm Lee Jun Hyuk 👋</h1>
 <h3 align="left">SW & Data Engineering</h3>
 <h3 align="left">Graduation from Inha University </h3>
@@ -14,15 +12,20 @@
 
 # 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
-- [발표작품](https://github.com/hyul77/VIP)
+[2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
 
 
-# 📫 About Me 📫
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
-[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
-[DACON](https://dacon.io/myprofile/474256/home)
+# 🌟hyul77/이준혁 project🌟
+- [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)
+
+- [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)
+
+- [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)
+  
+- [크롤링 / Web Crawling](https://github.com/hyul77/hyul-crawling)
+
+- [코딩공부 / Coding](https://github.com/hyul77/Algorithm)
 
 
 
@@ -52,22 +55,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-# 🌟hyul77/이준혁 project🌟
-- Data 분석 관련
-- [Pandas](https://github.com/hyul77/hyul-pandas)
+# 📫 About Me 📫
 
-- 웹 관련
-- [Django](https://github.com/hyul77/hyul-django)
-- [Web Project](https://github.com/hyul77/hyul-notalone)
-
-- 크롤링 관련
-- [Web Crawling](https://github.com/hyul77/hyul-crawling)
-
-- 코딩공부 관련
-- [Coding](https://github.com/hyul77/Algorithm)
-
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
+[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
+[DACON](https://dacon.io/myprofile/474256/home)
 
 <!--
 <div align="center">
