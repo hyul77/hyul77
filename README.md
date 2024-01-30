@@ -59,7 +59,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
-[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
+[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=flat-square&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
 [DACON](https://dacon.io/myprofile/474256/home)
 
 <!--
