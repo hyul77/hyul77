@@ -17,7 +17,7 @@
 
 
 # 🌟hyul77/이준혁 project🌟
-- [2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
+- [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)
   
 - [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)
 
