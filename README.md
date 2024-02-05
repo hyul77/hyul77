@@ -70,7 +70,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)<br/>
 - [![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=flat-square&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)<br/>
-- - [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
 - [DACON](https://dacon.io/myprofile/474256/home)<br/>
 
 <!--
