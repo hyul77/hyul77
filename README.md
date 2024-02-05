@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Lee Jun Hyuk
-<h3 align="left">SW & Data Engineering</h3>
-<h3 align="left">Graduation from Inha University </h3>
-<h4 align="left">Department of Computer Science</h4>
-<h3 align="left">Encore Academy</h3>
-<h4 align="left">Data_Engineering_Track_28</h4>
+### SW & Data Engineering
+### Graduation from Inha University
+- Department of Computer Science
+### Encore Academy
+- Data_Engineering_Track_28
 
 # 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
@@ -33,78 +33,67 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 
 - [코딩공부 / Coding](https://github.com/hyul77/Algorithm)
 
-
+# 🛠️
 
 # 📖 Tech Stack 📖
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=cColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpluspluslogoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Hadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Hive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=white)
-![Spark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+- Languages<br/>
+![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=cColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpluspluslogoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-437291.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+- Database<br/>
+![mariadb](https://img.shields.io/badge/mariadb-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
+
+- Framework & Library<br/>
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=white)
 
 
+- DevOps<br/>
+![linux](https://img.shields.io/badge/linux-FCC624.svg?style=flat-square&logo=linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white)
 
-# 📊 GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=hyul77&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hyul77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Analysis<br/>
+![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=white)
+![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=flat-square&logo=apachehive&logoColor=white)
+![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
 
 
-# 📫 About Me 📫
+- MLOps<br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)<br/>
-- [![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=flat-square&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)<br/>
+
+- IDEs and Tools<br/>
+![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- Others<br/>
+![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
+
+# 📞 Contact 📞
+이메일 : kimhyul77@gmail.com </br>
+블로그 : [hyul_code](https://hyul-code.tistory.com/) </br>
+깃허브 : [hyul77](https://github.com/hyul77)
+
+# 🍀 Study 🍀
 - [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
+- [Solved.ac Profile](https://solved.ac/hyul7/)
 - [DACON](https://dacon.io/myprofile/474256/home)<br/>
 
-<!--
-<div align="center">
-  <h3>📖 Tech Stack 📖</h3>
-  <br>
-  <p>⭐ Platform & Languages ⭐</p>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MSSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
-<br>
-<div align="center">
-  <p>:망치와_렌치: Tools :망치와_렌치:</p>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</div>
-<br><br>
-----1차----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&layout=compact"><br><br>
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyul77&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hyul77&show_icons=true">
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
--->
 
