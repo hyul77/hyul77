@@ -17,8 +17,17 @@
 
 
 # 🌟hyul77/이준혁 project🌟
-- [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)
-  
+
+
+- [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)<br/>
+
+
+https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e1234722e247
+
+
+
+
+
 - [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)
 
 - [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)
@@ -59,10 +68,10 @@
 
 # 📫 About Me 📫
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)
-[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=flat-square&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
-[DACON](https://dacon.io/myprofile/474256/home)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimhyul77@gmail.com)](kimhyul77@gmail.com)<br/>
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
+- [![blogger](https://img.shields.io/badge/blogger-FF5722.svg?style=flat-square&logo=blogger&logoColor=white)](https://hyul-code.tistory.com/)
+- [DACON](https://dacon.io/myprofile/474256/home)
 
 <!--
 <div align="center">
