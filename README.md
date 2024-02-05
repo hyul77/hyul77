@@ -1,9 +1,4 @@
-# Hi there
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Big Data
-- 👯 I’m looking to collaborate on Encore
-- 🤔 I’m looking for help with Work -->
-<h1 align="left">👋 I'm Lee Jun Hyuk 👋</h1>
+# Hi there 👋 I'm Lee Jun Hyuk
 <h3 align="left">SW & Data Engineering</h3>
 <h3 align="left">Graduation from Inha University </h3>
 <h4 align="left">Department of Computer Science</h4>
