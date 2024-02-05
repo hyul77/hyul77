@@ -1,4 +1,4 @@
-### Hi there
+# Hi there
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on Encore
