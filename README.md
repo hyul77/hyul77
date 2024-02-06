@@ -8,6 +8,8 @@
 # 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
 - [2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
+- Dacon 대학 대항전 : 퍼즐 이미지 AI 경진대회 31등 (상위 8%)
+
 
 
 
@@ -34,6 +36,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 - [크롤링 / Web Crawling](https://github.com/hyul77/hyul-crawling)
 
 - [코딩공부 / Coding](https://github.com/hyul77/Algorithm)
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
 
 # 🛠️
 
@@ -94,7 +97,6 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 깃허브 : [hyul77](https://github.com/hyul77)
 
 # 🍀 Study 🍀
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
 - [Solved.ac Profile](https://solved.ac/hyul7/)
 - [DACON](https://dacon.io/myprofile/474256/home)<br/>
 
