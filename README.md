@@ -14,7 +14,7 @@
 
 
 
-# 🌟hyul77/이준혁 project🌟
+# 🌟My project🌟
 
 
 - [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)<br/>
