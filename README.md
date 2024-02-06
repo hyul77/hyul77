@@ -36,7 +36,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 - [크롤링 / Web Crawling](https://github.com/hyul77/hyul-crawling)
 
 - [코딩공부 / Coding](https://github.com/hyul77/Algorithm)
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyul7)](https://solved.ac/hyul7/)<br/>
 
 # 🛠️
 
