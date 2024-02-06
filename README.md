@@ -8,7 +8,7 @@
 # 🥇 Award Record 🥇
 - 2023 캡스톤디자인 성과발표회 최우수상
 - [2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(발표작품)](https://github.com/hyul77/VIP)
-- Dacon 대학 대항전 : 퍼즐 이미지 AI 경진대회 31등 (상위 8%)
+- Dacon 대학 대항전 : 퍼즐 이미지 AI 경진대회 31등
 
 
 
