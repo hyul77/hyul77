@@ -24,6 +24,8 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 
 
 - [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)
+![image](https://github.com/hyul77/hyul77/assets/100561170/14a7af98-719d-4d33-b132-0be3ebe394d2)
+
 
 - [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)
 
