@@ -29,6 +29,17 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 
 <br/>
 
+
+
+- [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)<br/>
+
+<br/>
+
+https://github.com/DaSeul-Seo/NotAlone/assets/67898022/bfa48646-0945-4a50-ae5f-e7a21820e88b
+
+
+<br/>
+
 - [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)
   
 <br/>
@@ -38,9 +49,6 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 
 <br/>
 
-- [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)<br/>
-
-<br/>
 
 - [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)<br/>
 
