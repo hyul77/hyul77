@@ -122,7 +122,8 @@ https://github.com/DaSeul-Seo/NotAlone/assets/67898022/bfa48646-0945-4a50-ae5f-e
 깃허브 : [hyul77](https://github.com/hyul77)
 
 # 🍀 Study 🍀
-- [Solved.ac Profile](https://solved.ac/hyul7/)
+- [Solved.ac Profile](https://solved.ac/hyul7/)<br/>
 - [DACON](https://dacon.io/myprofile/474256/home)<br/>
+- [Hyul-dictionary](https://github.com/hyul77/hyul-dictionary)<br/>
 
 
