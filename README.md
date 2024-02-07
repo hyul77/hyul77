@@ -32,6 +32,9 @@ https://github.com/DaSeul-Seo/NotAlone/assets/67898022/bfa48646-0945-4a50-ae5f-e
 
 - [Port4045/ Web Project(Yolo service)](https://github.com/Port8090/Port4045)<br/>
 
+https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e008203b962
+
+
 <br/>
 
 - [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)<br/>
