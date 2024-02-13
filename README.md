@@ -15,13 +15,19 @@
 
 
 # 🌟My project🌟
-- [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)<br/>
-<br/>
+
+## 1. Video Edit Program (feat. Video Inpaintig)
+- [Vision transformer / Video Inpainting Service](https://github.com/hyul77/VIP)
+- 개발기간 : 2023.08.29 2023.12.05
+- 대표스택 : TransGan, Video Object Segmentation, PyQT
+
+### 시연영상
 
 https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e1234722e247
 
 <br/>
 
+## 2. 홈쇼핑 Web Service
 - [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)<br/>
 
 <br/>
