@@ -23,27 +23,39 @@
 
 ### 시연영상
 
+
 https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e1234722e247
 
 <br/>
 
 ## 2. 홈쇼핑 Web Service
-- [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)<br/>
+- [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)
+- 개발기간 : 2023.12.14 - 2023.12.20
+- 대표스택 : Java, ML - Python
 
-<br/>
+### 시연영상
+
 
 https://github.com/DaSeul-Seo/NotAlone/assets/67898022/bfa48646-0945-4a50-ae5f-e7a21820e88b
 
 <br/>
 
-- [Port4045/ Web Project(Yolo service)](https://github.com/Port8090/Port4045)<br/>
+## 3. Port:4045
+- [Port4045/ Web Project(Yolo service)](https://github.com/Port8090/Port4045)
+- 개발기간 : 2024.01.23 - 2024.01.26
+- 대표스택 : Python, Yolov8, AWS
+
+### 시연영상
+
 
 https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e008203b962
 
 
 <br/>
 
-- [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)<br/>
+## 4. 게시판 Service
+- [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)
+- 개발기간 : 2024.01.
 
 <br/>
 
