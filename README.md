@@ -55,7 +55,7 @@ https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e0
 
 ## 4. 게시판 Service
 - [게시판 / Web Porject(Django)](https://github.com/hyul77/hyul-django)
-- 개발기간 : 2024.01.
+- 개발기간 : 2024.01.17 - 2024.01.19
 
 <br/>
 
