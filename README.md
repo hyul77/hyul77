@@ -54,8 +54,9 @@ https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e0
 <br/>
 
 ## 4. 식단 및 맛집 추천 Web Service
-- [Mealddang / Web Service](https://github.com/hyul77/hyul-django)
+- [Mealddang / Web Service](https://github.com/hyul77/Mealddang)
 - 개발기간 : 2024.02.19 - 2024.03.21
+- 대표스택 : Java(Tomcat), , Python(FastAPI), Yolo, MySQL, 
 
 ### 시연영상
 
