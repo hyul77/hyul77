@@ -59,6 +59,9 @@ https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e0
 
 ### 시연영상
 
+https://github.com/hyul77/hyul77/assets/100561170/cb74391b-a65b-4948-86a9-31d4eedf3ee2
+
+
 
 <br/>
 
