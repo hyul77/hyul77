@@ -145,7 +145,7 @@ https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e0
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
 
 
-- IDEs and Tools<br/>
+- IDEs & Tools<br/>
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
