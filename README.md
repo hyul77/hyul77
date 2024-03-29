@@ -89,10 +89,10 @@ https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e0
 
 <br/>
 
-## 7. 데이터 수집(Crawling)
+## 7. 데이터 수집(Crawling & Airflow)
 
 - [크롤링 / Web Crawling](https://github.com/hyul77/hyul-crawling)<br/>
-<!-- - [Airflow & Web Crawling](https://github.com/hyul77/hyul-crawling)<br/> -->
+- [Airflow & Web Crawling](https://github.com/hyul77/hyul-airflow)<br/>
 
 <br/>
 
