@@ -31,7 +31,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e92390a6-8ca8-47bb-b5e7-e12347
 ## 2. 식단 및 맛집 추천 Web Service
 - [Mealddang / Web Service](https://github.com/hyul77/Mealddang)
 - 개발기간 : 2024.02.19 - 2024.03.21
-- 대표스택 : Java(Tomcat), , Python(FastAPI), Yolo, MySQL, AWS, Docker
+- 대표스택 : Java(Tomcat), Python(FastAPI), Yolo, GRU, BERT, MySQL, AWS, Docker
 
 ### 시연영상
 
