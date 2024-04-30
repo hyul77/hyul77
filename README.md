@@ -65,7 +65,10 @@ https://github.com/hyul77/hyul77/assets/100561170/9e22f62d-3ecd-4d7b-a06e-840fed
 ### 시연영상
 
 
-https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e008203b962
+
+https://github.com/hyul77/hyul77/assets/100561170/8b794d4c-9950-4975-bf86-db832cc27e10
+
+
 
 
 <br/>
