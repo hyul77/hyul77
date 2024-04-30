@@ -58,7 +58,7 @@ https://github.com/hyul77/hyul77/assets/100561170/9e22f62d-3ecd-4d7b-a06e-840fed
 <br/>
 
 ## 4. Port:4045
-- [Port4045/ Web Project(Yolo service)](https://github.com/Port8090/Port4045)
+- [Port4045/ Web Project(Yolo service)](https://github.com/hyul77/Port4045)
 - 개발기간 : 2024.01.23 - 2024.01.26
 - 대표스택 : Python, Yolov8, AWS
 
@@ -66,7 +66,7 @@ https://github.com/hyul77/hyul77/assets/100561170/9e22f62d-3ecd-4d7b-a06e-840fed
 
 
 
-https://github.com/hyul77/hyul77/assets/100561170/8b794d4c-9950-4975-bf86-db832cc27e10
+https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f1b8b9b
 
 
 
