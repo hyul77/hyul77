@@ -51,8 +51,9 @@ https://github.com/hyul77/hyul77/assets/100561170/3c5fdb8a-b6a2-4531-bd05-b1906a
 
 ### 시연영상
 
+https://github.com/hyul77/hyul77/assets/100561170/9e22f62d-3ecd-4d7b-a06e-840fedbd6908
 
-https://github.com/DaSeul-Seo/NotAlone/assets/67898022/bfa48646-0945-4a50-ae5f-e7a21820e88b
+
 
 <br/>
 
