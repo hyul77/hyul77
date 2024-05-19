@@ -47,7 +47,7 @@ https://github.com/hyul77/hyul77/assets/100561170/3c5fdb8a-b6a2-4531-bd05-b1906a
 ## 3. 홈쇼핑 Web Service
 - [Notalone / Web Project(Java)](https://github.com/hyul77/hyul-notalone)
 - 개발기간 : 2023.12.14 - 2023.12.20
-- 대표스택 : Java, ML, Python(Fast API)
+- 대표스택 : Java, ML(LGBMRegressor), Python(Fast API)
 
 ### 시연영상
 
