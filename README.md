@@ -149,7 +149,6 @@ https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f
 - MLOps<br/>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
 
 
 - IDEs & Tools<br/>
@@ -157,12 +156,15 @@ https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
-![postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 - Others<br/>
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
+
+- 해본 것<br/?
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 # 📞 Contact 📞
 이메일 : kimhyul77@gmail.com </br>
