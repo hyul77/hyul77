@@ -83,7 +83,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f
 
 <br/>
 
-## 6. Dacon 경진대회 
+## 6. Dacon 경진대회 & 데이터분석
 
 - [Data 분석 / Dacon(Pandas)](https://github.com/hyul77/hyul-pandas)<br/>
   
