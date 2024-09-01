@@ -10,8 +10,8 @@
   - [2023 캡스톤디자인 성과발표회 최우수상 Video Inpainting Service(졸업작품)](https://github.com/hyul77/VIP)
 - Dacon 대학 대항전 : 퍼즐 이미지 AI 경진대회 31등
   - [Dacon 대학 대항전 : 퍼즐 이미지 AI 경진대회 리더보드](https://dacon.io/competitions/official/236207/leaderboard)
-- 2024 빅데이터분석대회
-  - 예선 2등, 본선 진출 진행 중
+- 2024 대구광역시 빅데이터분석대회
+  - 에너지부문 예선 2등, 본선 진출 진행 중
 
 
 
