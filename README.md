@@ -178,4 +178,5 @@ https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f
 - [DACON](https://dacon.io/myprofile/474256/home)<br/>
 - [Hyul-dictionary](https://github.com/hyul77/hyul-dictionary)<br/>
 - 정보처리기사, 빅데이터분석기사, SQLD, DAP(준비중)
+- 토익, 오픽
 
