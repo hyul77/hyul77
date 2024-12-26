@@ -164,7 +164,7 @@ https://github.com/hyul77/hyul77/assets/100561170/e8eee041-e537-4398-b0f0-f2cf6f
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
 
-- 해본 것<br/?
+- 해본 것<br/>
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
